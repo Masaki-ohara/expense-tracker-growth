@@ -8,7 +8,7 @@ export default function Home() {
   };
 
   return (
-    <div style={{ textAlign: "center", padding: "50px" }}>
+    <div style={{ textAlign: "center", padding: "300px" }}>
       <h1 style={{ fontSize: "3rem", color: "#4CAF50", marginBottom: "30px" }}>
         🌱 My Expense Tracker 🌱
       </h1>
